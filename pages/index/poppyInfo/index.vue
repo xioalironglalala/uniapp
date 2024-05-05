@@ -1,5 +1,5 @@
 <template>
-	个人信息
+	个人信息111
 	<Footer :activeItem="activeItem"></Footer>
 </template>
 
