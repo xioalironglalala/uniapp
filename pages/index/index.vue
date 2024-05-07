@@ -15,7 +15,7 @@
 				</view>
 			</view>
 			<button form-type="submit">登录</button>
-      4545454
+      4545
 		</form>
 	</view>
 </template>
