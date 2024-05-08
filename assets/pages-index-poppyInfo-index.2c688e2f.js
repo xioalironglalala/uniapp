@@ -1,0 +1,1 @@
+import{v as e,o as t,z as a,b as s,a as o,F as r}from"./index-f69db855.js";import{F as n}from"./footer.dcefb2d9.js";import"./_plugin-vue_export-helper.1b428a4d.js";const i={__name:"index",setup(i){const l=e("2");return(e,i)=>(t(),a(r,null,[s(" 个人信息111 "),o(n,{activeItem:l.value},null,8,["activeItem"])],64))}};export{i as default};
